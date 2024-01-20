@@ -13,3 +13,28 @@ To address this trade-off, we employ various machine-learning techniques, such a
   <img src="https://raw.githubusercontent.com/LStepanek/prediction-of-covid-19-positives-in-selected-european-countries/main/outputs/svm_Czechia_rmse_for_various_t_k_%3D_10.png">
   <figcaption>Czechia</figcaption>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LStepanek/prediction-of-covid-19-positives-in-selected-european-countries/main/outputs/svm_France_rmse_for_various_t_k_%3D_10.png">
+  <figcaption>France</figcaption>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LStepanek/prediction-of-covid-19-positives-in-selected-european-countries/main/outputs/svm_Germany_rmse_for_various_t_k_%3D_10.png">
+  <figcaption>Germany</figcaption>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LStepanek/prediction-of-covid-19-positives-in-selected-european-countries/main/outputs/svm_Italy_rmse_for_various_t_k_%3D_10.png">
+  <figcaption>Italy</figcaption>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LStepanek/prediction-of-covid-19-positives-in-selected-european-countries/main/outputs/svm_Netherlands_rmse_for_various_t_k_%3D_10.png">
+  <figcaption>Netherlands</figcaption>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LStepanek/prediction-of-covid-19-positives-in-selected-european-countries/main/outputs/svm_Spain_rmse_for_various_t_k_%3D_10.png">
+  <figcaption>Spain</figcaption>
+</p>
