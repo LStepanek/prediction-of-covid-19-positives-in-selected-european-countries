@@ -7,3 +7,9 @@ However, the primary objective of the study is to manage the trade-off between t
 To address this trade-off, we employ various machine-learning techniques, such as multivariate regression, the least absolute shrinkage and selection operator (LASSO), ridge regression, support vector machines, and random forests. These algorithms are applied to COVID-19 data from selected European countries. Within each algorithm, we systematically search for the optimal time period length that minimizes the root mean square error of the prediction. This process aims to determine the most precise number of previous days needed for predicting the next-day COVID-19 positive cases.
 
 <b>Funding:</b> The study is supported by the grant no. F4/53/2022 "Prediction and visualization of causes-of-deaths seasonality and death excess rates using machine-learning approaches", which has been provided by the Internal Grant Agency of the Prague University of Economics and Business.
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LStepanek/prediction-of-covid-19-positives-in-selected-european-countries/main/outputs/svm_Czechia_rmse_for_various_t_k_%3D_10.png">
+  <figcaption>Czechia</figcaption>
+</p>
