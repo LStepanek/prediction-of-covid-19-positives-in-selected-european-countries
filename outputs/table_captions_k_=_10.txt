@@ -1,0 +1,150 @@
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for multivariate regression algorithm and Czechia as a country.
+\label{regression_Czechia_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for multivariate regression algorithm and France as a country.
+\label{regression_France_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for multivariate regression algorithm and Germany as a country.
+\label{regression_Germany_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for multivariate regression algorithm and Italy as a country.
+\label{regression_Italy_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for multivariate regression algorithm and Netherlands as a country.
+\label{regression_Netherlands_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for multivariate regression algorithm and Spain as a country.
+\label{regression_Spain_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for least absolute shrinkage and selection operator algorithm and Czechia as a country.
+\label{lasso_Czechia_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for least absolute shrinkage and selection operator algorithm and France as a country.
+\label{lasso_France_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for least absolute shrinkage and selection operator algorithm and Germany as a country.
+\label{lasso_Germany_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for least absolute shrinkage and selection operator algorithm and Italy as a country.
+\label{lasso_Italy_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for least absolute shrinkage and selection operator algorithm and Netherlands as a country.
+\label{lasso_Netherlands_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for least absolute shrinkage and selection operator algorithm and Spain as a country.
+\label{lasso_Spain_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for ridge regression algorithm and Czechia as a country.
+\label{ridge_Czechia_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for ridge regression algorithm and France as a country.
+\label{ridge_France_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for ridge regression algorithm and Germany as a country.
+\label{ridge_Germany_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for ridge regression algorithm and Italy as a country.
+\label{ridge_Italy_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for ridge regression algorithm and Netherlands as a country.
+\label{ridge_Netherlands_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for ridge regression algorithm and Spain as a country.
+\label{ridge_Spain_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for support vector machines algorithm and Czechia as a country.
+\label{svm_Czechia_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for support vector machines algorithm and France as a country.
+\label{svm_France_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for support vector machines algorithm and Germany as a country.
+\label{svm_Germany_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for support vector machines algorithm and Italy as a country.
+\label{svm_Italy_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for support vector machines algorithm and Netherlands as a country.
+\label{svm_Netherlands_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for support vector machines algorithm and Spain as a country.
+\label{svm_Spain_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for random forests algorithm and Czechia as a country.
+\label{forests_Czechia_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for random forests algorithm and France as a country.
+\label{forests_France_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for random forests algorithm and Germany as a country.
+\label{forests_Germany_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for random forests algorithm and Italy as a country.
+\label{forests_Italy_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for random forests algorithm and Netherlands as a country.
+\label{forests_Netherlands_table}%
+}
+
+\caption{%
+Root mean square errors (RMSE) for each iteration of the 10-fold cross-validation and each time period length \textit{t}, calculated for random forests algorithm and Spain as a country.
+\label{forests_Spain_table}%
+}
+
